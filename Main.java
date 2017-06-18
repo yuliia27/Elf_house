@@ -12,8 +12,8 @@ public class Main {
             john = john - 2;
         }
 
-        System.out.println("Dima: " + john);
-        System.out.println("Yuliia: " + hannah);
+        System.out.println("john: " + john);
+        System.out.println("hannah: " + hannah);
     }
 
     public static double calculate(int person1, int person2, int days) {
